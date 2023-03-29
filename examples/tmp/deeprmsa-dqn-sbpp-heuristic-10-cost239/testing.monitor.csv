@@ -1,0 +1,2 @@
+#{"t_start": 1678637551.5583694, "env_id": "DeepRMSAKSP-v0"}
+r,l,t,episode_service_blocking_rate,bit_rate_blocking_rate,failure,episode_failure,failure_slots,episode_failure_slots,failure_disjointness,episode_failure_disjointness,failure_shared_disjointness,episode_failure_shared_disjointness,shared_counter,episode_shared_counter,dpp_counter,episode_dpp_counter,compactness,throughput,available_slots_working,available_slots_backup
